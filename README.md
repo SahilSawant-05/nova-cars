@@ -2,7 +2,6 @@
 
 An Ecommerce Web app **designed and built for** **effortless car exploration and booking processes** for an online car sales company called Nova-Cars.
 
-![image](https://github.com/dagmfre/Nova-Cars-An-Ecommerce-Website/assets/96683816/1a388317-571d-492d-bd0a-64ec32656ed1)
 
 ##  WHY? 
 I built the app to make these two things **easy, effortless, and seamless:**
